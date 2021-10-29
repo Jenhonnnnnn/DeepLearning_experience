@@ -1,0 +1,3 @@
+Deep Brief Network
+
+6-layer stack autoencoder
